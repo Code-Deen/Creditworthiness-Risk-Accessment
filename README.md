@@ -1,5 +1,5 @@
-# Creditworthiness-Risk-Accessment
-This project accesses the risk and credit worthiness of applicants
+# Creditworthiness-Risk-Assessment
+This project examines the risk and creditworthiness of applicants
 # Explanation of the Dataset
 The definition of the variables are as follows;
 
@@ -7,7 +7,7 @@ person_age: The age of the borrower when securing the loan.
 
 person_income: The borrower’s annual earnings at the time of the loan.
 
-person_home_ownership: Type of home ownership of the applicant; Rent: The borrower is currently renting a property. Mortgage: The borrower has a mortgage on the property they own. Own: The borrower owns a home outright. Other: Other categories of home ownership that may be specific to the dataset.
+person_home_ownership: Type of home ownership of the applicant; Rent: The borrower is currently renting a property. Mortgage: The borrower has a mortgage on the property they own. Own: The borrower owns a home outright—other: Other categories of home ownership that may be specific to the dataset.
 
 person_emp_length: The amount of time in years that the borrower has been in employment.
 
